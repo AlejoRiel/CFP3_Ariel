@@ -1,0 +1,37 @@
+1- Determinar el problema a solucionar, la finalidad y los requerimientos.
+	Antes de comenzar un proyecto de Base de datos, es importante, determinar el eje a seguir para el diseño, ya que estas nos marcarán las 		pautas para tener un buen resultado.
+
+2- Modelo de Entidades:
+	La idea es que se identifiquen los objetos de la base de datos, llamadas entidades.
+	Para el modelado de la base de datos se propone utilizar el "Modelado de objetos", ya que, la técnica propone una forma abstracta de 		pensamiento acerca de problemas a resolver, empleando conceptos del mundo real.
+
+
+Problema propuesto:
+
+Una empresa de transporte necesita un diseño de base de datos para la gestión de sus envíos y sus clientes. Cada envío tiene un número de identificación, una fecha de envío, una fecha de entrega estimada, una dirección de origen, una dirección de destino, un peso, un costo y un estado.
+
+Cada cliente tiene un nombre, número de identificación, dirección, número de teléfono y correo electrónico. Además, cada cliente puede realizar uno o varios envíos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.tiobe.com/tiobe-index/

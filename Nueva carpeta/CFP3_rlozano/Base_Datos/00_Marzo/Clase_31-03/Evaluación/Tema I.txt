@@ -1,0 +1,37 @@
+1- Determinar el problema a solucionar, la finalidad y los requerimientos.
+	Antes de comenzar un proyecto de Base de datos, es importante, determinar el eje a seguir para el diseño, ya que estas nos marcarán las 		pautas para tener un buen resultado.
+
+2- Modelo de Entidades:
+	La idea es que se identifiquen los objetos de la base de datos, llamadas entidades.
+	Para el modelado de la base de datos se propone utilizar el "Modelado de objetos", ya que, la técnica propone una forma abstracta de 		pensamiento acerca de problemas a resolver, empleando conceptos del mundo real.
+
+
+Problema propuesto:
+
+Una tienda de ropa necesita un diseño de base de datos para la gestión de ventas. Las ventas se realizan en forma presencial en la tienda o en línea, y se registran el número de venta, fecha, productos comprados, cantidad, precio unitario y total de la venta, además del método de pago utilizado (efectivo, tarjeta de crédito, transferencia bancaria, etc.). Cada venta tiene un estado que puede ser Pendiente, Enviada, Entregada o Cancelada.
+Cada producto tiene un código, nombre, descripción, precio, cantidad en stock y categoría (ropa de mujer, ropa de hombre, accesorios, etc.). Cada categoría tiene un nombre y una descripción.
+De cada cliente, sabemos el nombre, correo electrónico, dirección y número de teléfono, y cada cliente puede tener más de una compra realizada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.tiobe.com/tiobe-index/

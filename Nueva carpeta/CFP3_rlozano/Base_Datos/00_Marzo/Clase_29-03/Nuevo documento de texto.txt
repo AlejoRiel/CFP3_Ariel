@@ -1,0 +1,36 @@
+1- Determinar el problema a solucionar, la finalidad y los requerimientos.
+	Antes de comenzar un proyecto de Base de datos, es importante, determinar el eje a seguir para el diseño, ya que estas nos marcarán las 		pautas para tener un buen resultado.
+
+2- Modelo de Entidades:
+	La idea es que se identifiquen los objetos de la base de datos, llamadas entidades.
+	Para el modelado de la base de datos se propone utilizar el "Modelado de objetos", ya que, la técnica propone una forma abstracta de 		pensamiento acerca de problemas a resolver, empleando conceptos del mundo real.
+
+
+Problema propuesto:
+	Una importante empresa de telefonía celular, necesita que se le diseñe la base de datos para la gestión de reclamos.
+	Los reclamos se realizan en forma telefónica o personal, y se registra el número que identifique dicho reclamo, fecha, número de celular del 	cliente, comentarios sobre el reclamo y comentarios sobre la resolución del mismo. A su vez, tiene tres estados; Pendiente, en Proceso, y 	Resuelto, por otro lado dicho reclamo puede estar asignado al área de atención al cliente, al área comercial y al área técnica. Cada reclamo 	tiene un tipo de reclamo (No funciona el equipo, no tiene señal, etc.).
+	De cada cliente, sabemos el nombre, teléfono y dirección, y asimismo cada cliente puede tener más de una línea de teléfono.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.tiobe.com/tiobe-index/
